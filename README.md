@@ -13,7 +13,7 @@ For fun. I mean, create an alias in the `~/.zshrc`, and you can use it any time 
 
 ## How Do I Use This?
 
-Download the Python file in the repository, and use it as you want!
+Download the Python file in the repository/release, and use it as you want!
 
 Here's some tips:
 
@@ -45,10 +45,10 @@ For the last time I edited the `README.md`, you need these things below:
 
 ## Next Step
 
-- [ ] Key in `hexinde.py`
 - [ ] Confused `hexinde.py`
 - [ ] UNIX timestamp computer
 - [ ] Base-64 encoder
+- [x] Key in `hexinde.py`
 - [x] Random chooser
 - [x] `ghp.ci` link generator (only release files)
 - [x] Hex computer
