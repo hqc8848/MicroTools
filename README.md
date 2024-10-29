@@ -19,8 +19,7 @@ Here's some tips:
 
 1. Not for Windows
 2. You need to download some extra things to make this works better.
-3. I'll be sorry if there's any typo or bad grammars, gotta know I'm not a person that borned in a English family.
-
+3. I'll be sorry if there's any typo or bad grammars, you know, nobody speak English in my family.
 ## Why "Not for Windows"?
 
 Because I can't use `\033[0m` or `\e[0m` (the most import thing in these files) as well on Windows platforms, and UNIX commands (`os.system("")`) also didn't work on it.
